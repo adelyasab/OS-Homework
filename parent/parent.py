@@ -3,6 +3,9 @@ import os
 import random
 import sys
 
+
+#Сабирзянова Аделя 11-901
+
 child = 1
 n = int(sys.argv[1])
 for i in range(n):
